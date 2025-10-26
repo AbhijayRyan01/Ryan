@@ -80,6 +80,22 @@ export const servicesData = [
 export const projects = [
   {
     id: 1,
+    name: "Crop.AI",
+    description:
+      "A multi-page ML-integrated React app built for real-time crop yield prediction and soil analysis.",
+    href: "https://crop-ai-two.vercel.app/",
+    image: "/assets/projects/Crop.AI.png",
+    bgImage: "/assets/backgrounds/blanket.jpg",
+    frameworks: [
+      { id: 1, name: "React" },
+      { id: 2, name: "Restful APIs" },
+      { id: 3, name: "NodeJS" },
+      { id: 4, name: "Machine Learning" },
+      { id: 5, name: "TailwindCSS" },
+    ],
+  },
+  {
+    id: 2,
     name: "NeuraNet",
     description:
       "A multi-page ML-integrated React app built for real-time inference using AWS services.",
@@ -95,7 +111,7 @@ export const projects = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     name: "k72-xi",
     description:
       "A dynamic and interactive React web project using GSAP animations, designed for engaging user experiences.",
@@ -110,7 +126,7 @@ export const projects = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     name: "KinectPosture",
     description:
       "A posture classification system using deep learning and real-world pose estimation data.",
@@ -125,7 +141,7 @@ export const projects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     name: "GreenSphere",
     description:
       "A multi-page ML-integrated React app built for real-time inference using AWS services.",
@@ -139,7 +155,7 @@ export const projects = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     name: "Profitability App – TuTeck Technologies",
     description:
       "A financial analysis app to track profitability metrics at employee, project, and company levels.",
@@ -154,11 +170,11 @@ export const projects = [
     ],
   },
   {
-    id: 6,
+    id: 7,
     name: "Vestiti",
     description:
       "A web-based visualization app leveraging OpenGL Shading Language (GLSL) for real-time interactive graphics.",
-    href: "",
+    href: "https://vestiti.vercel.app/",
     image: "/assets/projects/Vestiti.png",
     bgImage: "/assets/backgrounds/table.jpg",
     frameworks: [
