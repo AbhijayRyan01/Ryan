@@ -4,6 +4,10 @@
 
 This is a fully animated, interactive, 3D developer portfolio designed to **impress clients, recruiters, and hiring managers**. It's more than a portfolio—it's a web experience built with production-level code, scroll-based animations, and real-world best practices.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 62c8aa56c2653098920e22efff8232b08a1c8fe8
 ## 🚀 Tech Stack
 
 | Technology       | Description                             |
@@ -65,7 +69,13 @@ If this helped you build or inspire your own site:
 
 - ⭐ Star this repo
 
+<<<<<<< HEAD
 - 📬 [Connect on LinkedIn](https://www.linkedin.com/in/abhijay-dhar-a6b798241/)
+=======
+- 📬 [Connect on LinkedIn] (https://www.linkedin.com/in/abhijay-dhar-a6b798241/)
+
+- 📷 [Follow me on Instagram] (https://www.instagram.com/abhijay_ryan)
+>>>>>>> 62c8aa56c2653098920e22efff8232b08a1c8fe8
 
 - 📷 [Follow me on Instagram](https://www.instagram.com/abhijay_ryan)
 

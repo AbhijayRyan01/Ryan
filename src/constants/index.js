@@ -85,7 +85,7 @@ export const projects = [
       "A multi-page ML-integrated React app built for real-time crop yield prediction and soil analysis.",
     href: "https://crop-ai-two.vercel.app/",
     image: "/assets/projects/Crop.AI.png",
-    bgImage: "/assets/backgrounds/blanket.jpg",
+    bgImage: "/assets/projects/Crop.AI.png",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Restful APIs" },
@@ -101,7 +101,7 @@ export const projects = [
       "A multi-page ML-integrated React app built for real-time inference using AWS services.",
     href: "https://aws-project-5.vercel.app/",
     image: "/assets/projects/AWS.png",
-    bgImage: "/assets/backgrounds/blanket.jpg",
+    bgImage: "/assets/projects/AWS.png",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "JavaScript" },
@@ -116,8 +116,8 @@ export const projects = [
     description:
       "A dynamic and interactive React web project using GSAP animations, designed for engaging user experiences.",
     href: "https://k72-78qz.onrender.com/",
-    image: "/assets/projects/ryk72-xi.png", // replace with actual screenshot
-    bgImage: "/assets/backgrounds/blanket.jpg",
+    image: "/assets/projects/ryk72-xi.png", 
+    bgImage: "/assets/projects/ryk72-xi.png",
     frameworks: [
       { id: 1, name: "React.js" },
       { id: 2, name: "GSAP" },
@@ -132,7 +132,7 @@ export const projects = [
       "A posture classification system using deep learning and real-world pose estimation data.",
     href: "https://github.com/AbhijayRyan01/AI_Posture_Project",
     image: "/assets/projects/Posture.png",
-    bgImage: "/assets/backgrounds/curtains.jpg",
+    bgImage: "/assets/projects/Posture.png",
     frameworks: [
       { id: 1, name: "TensorFlow" },
       { id: 2, name: "MediaPipe" },
@@ -147,7 +147,7 @@ export const projects = [
       "A multi-page ML-integrated React app built for real-time inference using AWS services.",
     href: "https://greensph.vercel.app/",
     image: "/assets/projects/GreenSphere.png",
-    bgImage: "/assets/backgrounds/map.jpg",
+    bgImage: "/assets/projects/GreenSphere.png",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Typescript" },
@@ -161,7 +161,7 @@ export const projects = [
       "A financial analysis app to track profitability metrics at employee, project, and company levels.",
     href: "https://vestiti.vercel.app/",
     image: "/assets/projects/Profit.jpg",
-    bgImage: "/assets/backgrounds/poster.jpg",
+    bgImage: "/assets/projects/Profit.jpg",
     frameworks: [
       { id: 1, name: "REST API" },
       { id: 2, name: "Zoho" },
@@ -176,7 +176,7 @@ export const projects = [
       "A web-based visualization app leveraging OpenGL Shading Language (GLSL) for real-time interactive graphics.",
     href: "https://vestiti.vercel.app/",
     image: "/assets/projects/Vestiti.png",
-    bgImage: "/assets/backgrounds/table.jpg",
+    bgImage: "/assets/projects/Vestiti.png",
     frameworks: [
       { id: 1, name: "GLSL" },
       { id: 2, name: "JavaScript" },

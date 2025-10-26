@@ -15,6 +15,7 @@ const Hero = () => {
         title={"Abhijay Dhar"}
         text={text}
         textColor={"text-black"}
+        
       />
       <figure
         className="absolute inset-0 -z-50"
