@@ -170,21 +170,35 @@ export const projects = [
     ],
   },
   {
-    id: 6,
-    name: "Chrono-Kanban.",
+    id: 7,
+    name: "JS based Image Editor",
     description:
-      "A web-based visualization app leveraging OpenGL Shading Language (GLSL) for real-time interactive graphics.",
-    href: "https://chrono-kanban.vercel.app/",
-    image: "/assets/projects/Vestiti.png",
-    bgImage: "/assets/projects/Vestiti.png",
+      "A Kanban app to track day to day productivity of the user using Javascript.",
+    href: "https://ry-image-editor.vercel.app/",
+    image: "/assets/projects/js.png",
+    bgImage: "/assets/projects/js.png",
     frameworks: [
-      { id: 1, name: "JavaScript" },
+      { id: 1, name: "Vanilla Javascript" },
       { id: 2, name: "HTML" },
       { id: 3, name: "CSS" },
     ],
   },
   {
-    id: 7,
+    id: 8,
+    name: "Chrono-Kanban",
+    description:
+      "A Kanban app to track day to day productivity of the user using Javascript.",
+    href: "https://chrono-kanban.vercel.app/",
+    image: "/assets/projects/chrono-kanban.png",
+    bgImage: "/assets/projects/chrono-kanban.png",
+    frameworks: [
+      { id: 1, name: "Javascript" },
+      { id: 2, name: "HTML" },
+      { id: 3, name: "CSS" },
+    ],
+  },
+  {
+    id: 9,
     name: "Vestiti",
     description:
       "A web-based visualization app leveraging OpenGL Shading Language (GLSL) for real-time interactive graphics.",
