@@ -189,8 +189,8 @@ export const projects = [
     description:
       "A Kanban app to track day to day productivity of the user using Javascript.",
     href: "https://chrono-kanban.vercel.app/",
-    image: "/assets/projects/chrono-kanban.png",
-    bgImage: "/assets/projects/chrono-kanban.png",
+    image: "/assets/projects/chrono-kanban..png",
+    bgImage: "/assets/projects/chrono-kanban..png",
     frameworks: [
       { id: 1, name: "Javascript" },
       { id: 2, name: "HTML" },
